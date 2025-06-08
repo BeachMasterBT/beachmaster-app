@@ -1,2 +1,2 @@
 # beachmaster-app
-Sistema completo do Beach Maste
+Sistema completo do Beach Master
